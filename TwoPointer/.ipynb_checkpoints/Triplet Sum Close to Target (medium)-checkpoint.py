@@ -3,7 +3,7 @@
 # Maybe need more practice with pseudo Code?
 
 # In the actual answer, they have 2 separate if else conditions. I merged them into 1.
-####
+#
 
 def searchTriplet(arr, target):
 
