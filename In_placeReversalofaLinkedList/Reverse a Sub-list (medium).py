@@ -10,7 +10,8 @@ def reverse_idx(self, p,q):
 	start_2 = None
 	end_2 = None
 	end_1 = None
-	
+
+
 
 	while curr is not None:
 		cnt +=1
