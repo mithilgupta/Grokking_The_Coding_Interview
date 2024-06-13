@@ -6,6 +6,8 @@ def reverse_idx(self, p,q):
 	curr = self.head
 
 	# Initializing 4 variables to store the pointers.
+
+	## 
 	start_1 = None
 	start_2 = None
 	end_2 = None
